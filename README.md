@@ -1,4 +1,4 @@
-# krz_personalmenu
+# KOMPLETT DEUTSCHE VERSION krz_personalmenu
 **krz_personalmenu** is a **PersonalMenu** for FiveM developed on top of [ESX](https://github.com/ESX-Org/es_extended) and [RageUI](https://github.com/iTexZoz/RageUI)
 
 ### Important
