@@ -13,7 +13,7 @@ local Keys = {
 Config = {}
 
 -- LANGUAGE --
-Config.Locale = 'fr'
+Config.Locale = 'de'
 
 -- GENERAL --
 Config.MenuTitle = 'ServerName' -- change it to you're server name
